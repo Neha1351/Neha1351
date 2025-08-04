@@ -1,5 +1,9 @@
-## Hi 👋,  I'm Neha Saji
-## A passionate Developer
+<div align="center">
+
+## Hi 👋, I'm Neha Saji  
+## A Passionate Developer
+
+</div>
 
 - 🌱 I’m currently learning Java and Python
 - 💬 Ask me about React and Node
@@ -48,4 +52,19 @@
 </a>
 
 </p>
+
+## 📊 GitHub Stats & Achievements
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Neha1351&show_icons=true&theme=github_dark" alt="Neha's GitHub Stats" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha1351&layout=compact&theme=github_dark" alt="Top Languages" />
+
+  
+  <!-- Contribution Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Neha1351&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
 
