@@ -5,7 +5,7 @@
 
 </div>
 
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning .NET and Python
 - 💬 Ask me about React and Node
 - 📫 How to reach me [nehasaji51@gmail.com](mailto:nehasaji51@gmail.com)
 ## 🤝 Connect with Me<!-- Clickable icons only -->
